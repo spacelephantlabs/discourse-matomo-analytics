@@ -1,6 +1,6 @@
 host_url:
   type: string
-  default: ''
+  default: 'kpi.unikname.com'
   description: Host URL without http:// or https://
 website_id:
   type: string
